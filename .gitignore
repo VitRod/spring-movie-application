@@ -1,0 +1,12 @@
+/target/classes/com/vit/domain/Actor.class
+/target/classes/com/vit/repository/ActorRepository.class
+/target/classes/application.properties
+/target/classes/templates/css/main.css
+/target/classes/com/vit/domain/Movie.class
+/target/classes/templates/movie.html
+/target/classes/com/vit/repository/MovieRepository.class
+/target/classes/templates/movies.html
+/target/classes/com/vit/controller/MoviesController.class
+/mvnw
+/mvnw.cmd
+/target/classes/com/vit/SpringThymeleafMovieAppApplication.class

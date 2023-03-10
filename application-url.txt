@@ -1,0 +1,7 @@
+-- application url in browser --
+http://localhost:5600/movies
+
+
+
+
+
